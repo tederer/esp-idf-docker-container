@@ -1,5 +1,5 @@
 # esp-idf-docker-image
-This repository containes all you need to build a docker image that can be used to compile and transfer your ESP32 project onto the ESP32. The idea is to installs the Espressif IoT Development Framework V4.2 ([ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)) and its dependencies in a docker image. The project code resides in your file system and gets mounted into the docker container. 
+This repository contains all you need to build a docker image that can be used to compile and transfer your ESP32 project onto the ESP32. The idea is to installs the Espressif IoT Development Framework V4.2 ([ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)) and its dependencies in a docker image. The project code resides in your file system and gets mounted into the docker container. 
 
 # building the docker image
 
