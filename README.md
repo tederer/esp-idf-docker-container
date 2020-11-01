@@ -7,7 +7,7 @@ Clone this repository and execute `buildDockerImage.sh`. This script creates a d
 
 # using the docker image / compiling your ESP32 project
 
-Open `startDevEnvInDocker.sh` in an editor and adapt the values of following variables to match with your setup.
+Open `startDevEnvInDocker.sh` in an editor and adapt the values of the following variables to match with your setup.
 
 |variable|description|
 |----------------------|------------------------------------------------------|
